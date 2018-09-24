@@ -1,0 +1,11 @@
+ranking:
+  types:
+    -
+      column: category_id
+      table: category_ranking
+    -
+      column: genre_id
+      table: genre_ranking
+    -
+      column: tag_id
+      table: tag_ranking
