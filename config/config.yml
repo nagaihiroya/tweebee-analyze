@@ -1,0 +1,13 @@
+local:
+  database:
+    host: 127.0.0.1
+    database: tweebee
+    user: root
+    pass: root
+    port: 3306
+production:
+  database:
+    host: 127.0.0.1
+    database: tweebee
+    user: tweebee
+    pass: tweebee
